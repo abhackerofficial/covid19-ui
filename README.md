@@ -7,7 +7,7 @@ Done...
 
 Now Type↓
 
-git clone 
+git clone https://github.com/abhackerofficial/covid19-ui.git
 
 cd covid19-ui
 
