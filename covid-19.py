@@ -5,16 +5,23 @@ def menu():
            os.system('                figlet Covid-19 | lolcat -d 1 -t -s 100')
            print('\033[1;36;40m<────────────────────────────────────>')
            print("")
-           os.system('echo *HOW TO PREVENT THE SPREAD OF CORONA VIRUS')
+           os.system('echo • To prevent the spread of COVID-19:')
            print("")
-           os.system('echo *Wash hands often for 20 seconds. | lolcat -a -t')
-           os.system('echo *Use hand sanitizer and mask. | lolcat -a -t')
-           os.system('echo *Cover cough and sneezes with a tissue. | lolcat -a -t')
-           os.system('echo *Avoid touching your face with unwashed hands. | lolcat -a -t')
-           os.system('echo *Disinfect surfaces touched often. | lolcat -a -t')
-           os.system('echo *Avoid close contact with people who are sick Most important please stay at home. | lolcat -a -t')
+           os.system('echo • Clean your hands often. Use soap and water, or an alcohol->
            print("")
-           print('\033[1;92mPress CTRL+D TO CLOSE')
+           os.system('echo • Maintain a safe distance from anyone who is coughing or sn>
+           print("")
+           os.system('echo • Don’t touch your eyes, nose or mouth. | lolcat -a -t')
+           print("")
+           os.system('echo • Cover your nose and mouth with your bent elbow or a tissue>
+           print("")
+           os.system('echo • Stay home if you feel unwell. | lolcat -a -t')
+           print("")
+           os.system('echo • If you have a fever, a cough, and difficulty breathing, se>
+           print("")
+           os.system('echo • Follow the directions of your local health authority. | lo>
+           print("")
+           print('\033[1;92m• Press CTRL+D TO CLOSE')
            os.system('figlet | lolcat')
            break
 menu()
